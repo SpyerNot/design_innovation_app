@@ -81,7 +81,7 @@ else:
       if plans == 'Plan 1':
         st.write(rd.choice(exercise_overweight_adult))
       elif plans == 'Plan 2':
-        st.write(rd.choice(exercise_overweight_adult))
+        st.write(rd.choice(exercise_overweight_teens))
       elif plans == 'Plan 3':
         st.write(rd.choice(exercise_overweight_adult))
       else:
