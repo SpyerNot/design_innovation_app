@@ -125,9 +125,9 @@ else:
       if plans == 'Plan 1':
         st.write(rd.choice(exercise_underweight_teens))
       elif plans == 'Plan 2':
-        st.write(rd.choice(exercisee_underweight_teens))
+        st.write(rd.choice(exercise_underweight_teens))
       elif plans == 'Plan 3':
-        st.write(rd.choice(exercisee_underweight_teens))
+        st.write(rd.choice(exercise_underweight_teens))
       else:
         st.write("Ok,I seee that you do not want to exercise")
     elif age >= 1975:      
